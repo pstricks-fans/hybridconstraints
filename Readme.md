@@ -35,4 +35,4 @@ How to make the ball
 
 # Note
 
-Please refrain from suggesting me to set `z = g * t * t / 2` in `Tick` because it is not what I want to learn. I want to learn how to mix kinematic and dynamic constraints.
+Please refrain from suggesting me to set `z = g * t * t / 2` in `Tick` because it is not what I want to learn. I want to learn how to apply both kinematic and dynamic constraints on the ball.
